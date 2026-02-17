@@ -1,5 +1,5 @@
 {
-    "name": "ntavelis/mercure-php",
+    "name": "pharit/mercure-php",
     "type": "library",
     "description": "Publish messages to mercure hub",
     "keywords": [
